@@ -1,0 +1,15 @@
+<?xml version="1.0" standalone="yes"?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
+    <channel>
+        <title>MeetNotch</title>
+        <item>
+            <title>1.0.0</title>
+            <pubDate>Tue, 27 Oct 2026 07:23:15 +0000</pubDate>
+            <sparkle:version>1</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+            <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
+            <enclosure url="https://github.com/adarshkaraka/meet-releases/releases/download/v1.0.0/MeetNotch-1.0.0.zip" length="5721801" type="application/octet-stream" sparkle:edSignature="HHlzP2HaR28kUXp7Zz8zvLlJDNeH3fKB5t0mFuH1m//q5vhCtLDjrfUaDoT5ry1jpUCl/jJw8JUE88jtWkDCAA=="/>
+        </item>
+    </channel>
+</rss>
