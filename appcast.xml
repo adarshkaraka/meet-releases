@@ -4,12 +4,12 @@
         <title>MeetNotch</title>
         <item>
             <title>1.0.1</title>
-            <pubDate>Wed, 28 Oct 2026 09:20:47 +0000</pubDate>
-            <sparkle:version>1</sparkle:version>
+            <pubDate>Wed, 28 Oct 2026 09:23:54 +0000</pubDate>
+            <sparkle:version>5</sparkle:version>
             <sparkle:shortVersionString>1.0.1</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
             <sparkle:hardwareRequirements>arm64</sparkle:hardwareRequirements>
-            <enclosure url="https://github.com/adarshkaraka/meet-releases/releases/download/v1.0.1/MeetNotch-1.0.1.zip" length="5728050" type="application/octet-stream" sparkle:edSignature="M5LS14AQo3oS/trakrMeA6BWleRnySaXddRiLOY+9R6SF8CqsIuS53MsbCyki5FJmnewyQEIBappfFwu+7QBBQ=="/>
+            <enclosure url="https://github.com/adarshkaraka/meet-releases/releases/download/v1.0.1/MeetNotch-1.0.1.zip" length="5728058" type="application/octet-stream" sparkle:edSignature="VO8VfdCvSXkFAq+toBz+IyfX3HFO3RqrSZLQb3s1HbOq4uwuH+2qaiao08I5bbrMBJS+hibDZC4aUC7vhcM/CQ=="/>
         </item>
     </channel>
 </rss>
